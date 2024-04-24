@@ -1,3 +1,3 @@
-## Todo API created on .NET
+# Todo API created on .NET
 
-# Uses Swagger for testing
+## Uses Swagger for testing
